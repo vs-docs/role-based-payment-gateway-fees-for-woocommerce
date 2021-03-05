@@ -1,5 +1,7 @@
 # Initial page
 
+![](.gitbook/assets/banner.jpg)
+
 ![](.gitbook/assets/7799a062d5dab2c03035b1a30a4066fc801d8c51.jpeg)
 
 The Role Based Payment Gateway Based Fees extension enables you to add a fee to an order, depending on the User role & the chosen payment gateway.
