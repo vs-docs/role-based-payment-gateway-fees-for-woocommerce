@@ -13,6 +13,6 @@ Payment gateway based fees and discounts can be added to **all payment gateways*
 
 * Gateway Fees By User Roles
 * Taxable Gateway Fees
-* 
+
 
 
