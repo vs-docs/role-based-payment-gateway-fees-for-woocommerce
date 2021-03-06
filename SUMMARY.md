@@ -5,5 +5,5 @@
 ## Purchase & Support
 
 * [Support](https://support.varunsridharan.in)
-* [Buy Now](https://codecanyon.net)
+* [Buy Now](https://1.envato.market/31018990)
 
